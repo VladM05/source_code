@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "475873591921",
+    "project_id": "spotigen-b2954",
+    "storage_bucket": "spotigen-b2954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475873591921:android:cc471f99a99c839b8d91d0",
+        "android_client_info": {
+          "package_name": "com.licenta.playlist_generator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475873591921-poqu594tl5bselt3usnud3f00hv8jo4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLiIk3tSHV7NnRLBgjykaZ_pl2PIF8ZBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475873591921-poqu594tl5bselt3usnud3f00hv8jo4a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475873591921-rklbvspkmrihconfngrhpvogphoai6h9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.licenta.playlistGenerator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
